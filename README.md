@@ -18,6 +18,7 @@ Frameworks and Languages used:
 3. Brownie :- this is a web3.py framework , used to make development more easy and efficient.
 4. Chainlink :- Used to interact blockchin network with real world , like getting prices of tokens etc.
 6. Metamask :- Used to interact with the project, like approving transactions, sending tokens, gas etc.
+7. React :- Used to design front end.
 
 (optional)5. Ganache :- this spins up a local blockchain in your computer . used for fast deployment and testing.
 
